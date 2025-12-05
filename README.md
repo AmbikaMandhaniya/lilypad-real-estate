@@ -37,7 +37,7 @@ Lilypad is a clean and intuitive platform designed for real estate investment in
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/lilypad-real-estate.git
+git clone https://github.com/AmbikaMandhaniya/lilypad-real-estate.git
 cd lilypad-real-estate
 ```
 
